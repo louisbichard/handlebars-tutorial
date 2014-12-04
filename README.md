@@ -1,5 +1,5 @@
-handlebars-tutorial
-===================
+Handlebars Templating bootstrap
+===============================
 
 Some sample Code for setting up a simple templating function short tutorial on handle bars
 
